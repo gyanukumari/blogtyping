@@ -1,0 +1,2 @@
+# blogtyping
+typing blog assesment
